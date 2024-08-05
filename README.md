@@ -4,6 +4,9 @@ Custom [Home Assistant](https://www.home-assistant.io) component to retrieve nex
 
 ### Updating to version v0.8.0 has a breaking change: only stop_ids from the [OpenData portal](http://opendata.avv.de/) are supported now.
 
+## Installation
+add this repository https://github.com/Eco-Gaming/homeassistant-aseag_next_bus in "HACS / Userdefined Repositories"
+
 ## Configuration example:
 ~~~
 sensor:
